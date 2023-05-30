@@ -1,6 +1,8 @@
 public class MainApp {
     public static void main(String [] args)
     {
-        System.out.println("Bonjour à tous ceci est mon premier hello world");
+        int ageUtilisateur = 10;
+        final int NUMB = 15;
+        System.out.println(ageUtilisateur);
     }
 }
